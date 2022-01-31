@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8E63F649-F21B-4A0D-A4AD-F01A28F4A257}|Default">
+  <MonoDevelop.Ide.ItemProperties.MiniExcercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MiniExcercise/Program.cs">
+    <Files>
+      <File FileName="introlecture/Program.cs" Line="80" Column="18" />
+      <File FileName="MiniExcercise/Program.cs" Line="9" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="introlecture" expanded="True">
+            <Node name="introlecture" expanded="True" />
+            <Node name="MiniExcercise" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.introlecture PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

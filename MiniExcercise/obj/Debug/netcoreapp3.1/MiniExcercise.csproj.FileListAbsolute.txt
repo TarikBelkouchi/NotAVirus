@@ -1,0 +1,14 @@
+/Users/tarik/Projects/introlecture/MiniExcercise/bin/Debug/netcoreapp3.1/MiniExcercise.deps.json
+/Users/tarik/Projects/introlecture/MiniExcercise/bin/Debug/netcoreapp3.1/MiniExcercise.runtimeconfig.json
+/Users/tarik/Projects/introlecture/MiniExcercise/bin/Debug/netcoreapp3.1/MiniExcercise.runtimeconfig.dev.json
+/Users/tarik/Projects/introlecture/MiniExcercise/bin/Debug/netcoreapp3.1/MiniExcercise.dll
+/Users/tarik/Projects/introlecture/MiniExcercise/bin/Debug/netcoreapp3.1/MiniExcercise.pdb
+/Users/tarik/Projects/introlecture/MiniExcercise/obj/Debug/netcoreapp3.1/MiniExcercise.csproj.AssemblyReference.cache
+/Users/tarik/Projects/introlecture/MiniExcercise/obj/Debug/netcoreapp3.1/MiniExcercise.AssemblyInfoInputs.cache
+/Users/tarik/Projects/introlecture/MiniExcercise/obj/Debug/netcoreapp3.1/MiniExcercise.AssemblyInfo.cs
+/Users/tarik/Projects/introlecture/MiniExcercise/obj/Debug/netcoreapp3.1/MiniExcercise.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/introlecture/MiniExcercise/obj/Debug/netcoreapp3.1/MiniExcercise.dll
+/Users/tarik/Projects/introlecture/MiniExcercise/obj/Debug/netcoreapp3.1/MiniExcercise.pdb
+/Users/tarik/Projects/introlecture/MiniExcercise/obj/Debug/netcoreapp3.1/MiniExcercise.genruntimeconfig.cache
+/Users/tarik/Projects/introlecture/MiniExcercise/bin/Debug/netcoreapp3.1/MiniExcercise
+/Users/tarik/Projects/introlecture/MiniExcercise/obj/Debug/netcoreapp3.1/MiniExcercise.GeneratedMSBuildEditorConfig.editorconfig

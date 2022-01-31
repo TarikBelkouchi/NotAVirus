@@ -1,0 +1,6 @@
+/Users/tarik/Projects/introlecture/introlecture/bin/Debug/introlecture.exe
+/Users/tarik/Projects/introlecture/introlecture/bin/Debug/introlecture.pdb
+/Users/tarik/Projects/introlecture/introlecture/obj/Debug/introlecture.csproj.AssemblyReference.cache
+/Users/tarik/Projects/introlecture/introlecture/obj/Debug/introlecture.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/introlecture/introlecture/obj/Debug/introlecture.exe
+/Users/tarik/Projects/introlecture/introlecture/obj/Debug/introlecture.pdb

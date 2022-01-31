@@ -1,0 +1,15 @@
+/Users/tarik/Projects/introlecture/NotAVirus/bin/Debug/net6.0/NotAVirus
+/Users/tarik/Projects/introlecture/NotAVirus/bin/Debug/net6.0/NotAVirus.deps.json
+/Users/tarik/Projects/introlecture/NotAVirus/bin/Debug/net6.0/NotAVirus.runtimeconfig.json
+/Users/tarik/Projects/introlecture/NotAVirus/bin/Debug/net6.0/NotAVirus.dll
+/Users/tarik/Projects/introlecture/NotAVirus/bin/Debug/net6.0/ref/NotAVirus.dll
+/Users/tarik/Projects/introlecture/NotAVirus/bin/Debug/net6.0/NotAVirus.pdb
+/Users/tarik/Projects/introlecture/NotAVirus/obj/Debug/net6.0/NotAVirus.csproj.AssemblyReference.cache
+/Users/tarik/Projects/introlecture/NotAVirus/obj/Debug/net6.0/NotAVirus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarik/Projects/introlecture/NotAVirus/obj/Debug/net6.0/NotAVirus.AssemblyInfoInputs.cache
+/Users/tarik/Projects/introlecture/NotAVirus/obj/Debug/net6.0/NotAVirus.AssemblyInfo.cs
+/Users/tarik/Projects/introlecture/NotAVirus/obj/Debug/net6.0/NotAVirus.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/introlecture/NotAVirus/obj/Debug/net6.0/NotAVirus.dll
+/Users/tarik/Projects/introlecture/NotAVirus/obj/Debug/net6.0/ref/NotAVirus.dll
+/Users/tarik/Projects/introlecture/NotAVirus/obj/Debug/net6.0/NotAVirus.pdb
+/Users/tarik/Projects/introlecture/NotAVirus/obj/Debug/net6.0/NotAVirus.genruntimeconfig.cache
