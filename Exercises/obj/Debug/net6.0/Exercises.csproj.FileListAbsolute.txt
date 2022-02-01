@@ -1,0 +1,15 @@
+/Users/tarik/Projects/introLecture/Exercises/bin/Debug/net6.0/Exercises
+/Users/tarik/Projects/introLecture/Exercises/bin/Debug/net6.0/Exercises.deps.json
+/Users/tarik/Projects/introLecture/Exercises/bin/Debug/net6.0/Exercises.runtimeconfig.json
+/Users/tarik/Projects/introLecture/Exercises/bin/Debug/net6.0/Exercises.dll
+/Users/tarik/Projects/introLecture/Exercises/bin/Debug/net6.0/ref/Exercises.dll
+/Users/tarik/Projects/introLecture/Exercises/bin/Debug/net6.0/Exercises.pdb
+/Users/tarik/Projects/introLecture/Exercises/obj/Debug/net6.0/Exercises.csproj.AssemblyReference.cache
+/Users/tarik/Projects/introLecture/Exercises/obj/Debug/net6.0/Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarik/Projects/introLecture/Exercises/obj/Debug/net6.0/Exercises.AssemblyInfoInputs.cache
+/Users/tarik/Projects/introLecture/Exercises/obj/Debug/net6.0/Exercises.AssemblyInfo.cs
+/Users/tarik/Projects/introLecture/Exercises/obj/Debug/net6.0/Exercises.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/introLecture/Exercises/obj/Debug/net6.0/Exercises.dll
+/Users/tarik/Projects/introLecture/Exercises/obj/Debug/net6.0/ref/Exercises.dll
+/Users/tarik/Projects/introLecture/Exercises/obj/Debug/net6.0/Exercises.pdb
+/Users/tarik/Projects/introLecture/Exercises/obj/Debug/net6.0/Exercises.genruntimeconfig.cache

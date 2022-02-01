@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "btOkB7smxsuELsSGCBlQymGVmLDE/fNNYXd7hS4B6wC1jZ8MKfrfvNBVJWguK0oG/9nahP2VBuCWjtJ/rC3gbg==",
+  "dgSpecHash": "oP+JdkzOdb96oA+/AlRGOqL6lD6aI/S9YzMRLuyOWgrRFN5TZF9L3PykRLFVrjS6b+ti0bR1TB0EujCZSVXB/Q==",
   "success": true,
-  "projectFilePath": "/Users/tarik/Projects/introlecture/MiniExcercise/MiniExcercise.csproj",
+  "projectFilePath": "/Users/tarik/Projects/introLecture/MiniExcercise/MiniExcercise.csproj",
   "expectedPackageFiles": [
     "/Users/tarik/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "/Users/tarik/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512",

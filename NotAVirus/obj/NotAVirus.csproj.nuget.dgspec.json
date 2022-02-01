@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tarik/Projects/introlecture/NotAVirus/NotAVirus.csproj": {}
+    "/Users/tarik/Projects/introLecture/NotAVirus/NotAVirus.csproj": {}
   },
   "projects": {
-    "/Users/tarik/Projects/introlecture/NotAVirus/NotAVirus.csproj": {
+    "/Users/tarik/Projects/introLecture/NotAVirus/NotAVirus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarik/Projects/introlecture/NotAVirus/NotAVirus.csproj",
+        "projectUniqueName": "/Users/tarik/Projects/introLecture/NotAVirus/NotAVirus.csproj",
         "projectName": "NotAVirus",
-        "projectPath": "/Users/tarik/Projects/introlecture/NotAVirus/NotAVirus.csproj",
+        "projectPath": "/Users/tarik/Projects/introLecture/NotAVirus/NotAVirus.csproj",
         "packagesPath": "/Users/tarik/.nuget/packages/",
-        "outputPath": "/Users/tarik/Projects/introlecture/NotAVirus/obj/",
+        "outputPath": "/Users/tarik/Projects/introLecture/NotAVirus/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tarik/.nuget/NuGet/NuGet.Config"

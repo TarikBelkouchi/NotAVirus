@@ -1,0 +1,15 @@
+/Users/tarik/Projects/introLecture/ConditionLecture/obj/Debug/net6.0/ConditionLecture.csproj.AssemblyReference.cache
+/Users/tarik/Projects/introLecture/ConditionLecture/obj/Debug/net6.0/ConditionLecture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarik/Projects/introLecture/ConditionLecture/obj/Debug/net6.0/ConditionLecture.AssemblyInfoInputs.cache
+/Users/tarik/Projects/introLecture/ConditionLecture/obj/Debug/net6.0/ConditionLecture.AssemblyInfo.cs
+/Users/tarik/Projects/introLecture/ConditionLecture/obj/Debug/net6.0/ConditionLecture.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/introLecture/ConditionLecture/bin/Debug/net6.0/ConditionLecture
+/Users/tarik/Projects/introLecture/ConditionLecture/bin/Debug/net6.0/ConditionLecture.deps.json
+/Users/tarik/Projects/introLecture/ConditionLecture/bin/Debug/net6.0/ConditionLecture.runtimeconfig.json
+/Users/tarik/Projects/introLecture/ConditionLecture/bin/Debug/net6.0/ConditionLecture.dll
+/Users/tarik/Projects/introLecture/ConditionLecture/bin/Debug/net6.0/ref/ConditionLecture.dll
+/Users/tarik/Projects/introLecture/ConditionLecture/bin/Debug/net6.0/ConditionLecture.pdb
+/Users/tarik/Projects/introLecture/ConditionLecture/obj/Debug/net6.0/ConditionLecture.dll
+/Users/tarik/Projects/introLecture/ConditionLecture/obj/Debug/net6.0/ref/ConditionLecture.dll
+/Users/tarik/Projects/introLecture/ConditionLecture/obj/Debug/net6.0/ConditionLecture.pdb
+/Users/tarik/Projects/introLecture/ConditionLecture/obj/Debug/net6.0/ConditionLecture.genruntimeconfig.cache

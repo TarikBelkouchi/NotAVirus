@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tarik/Projects/introlecture/MiniExcercise/MiniExcercise.csproj": {}
+    "/Users/tarik/Projects/introLecture/MiniExcercise/MiniExcercise.csproj": {}
   },
   "projects": {
-    "/Users/tarik/Projects/introlecture/MiniExcercise/MiniExcercise.csproj": {
+    "/Users/tarik/Projects/introLecture/MiniExcercise/MiniExcercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarik/Projects/introlecture/MiniExcercise/MiniExcercise.csproj",
+        "projectUniqueName": "/Users/tarik/Projects/introLecture/MiniExcercise/MiniExcercise.csproj",
         "projectName": "MiniExcercise",
-        "projectPath": "/Users/tarik/Projects/introlecture/MiniExcercise/MiniExcercise.csproj",
+        "projectPath": "/Users/tarik/Projects/introLecture/MiniExcercise/MiniExcercise.csproj",
         "packagesPath": "/Users/tarik/.nuget/packages/",
-        "outputPath": "/Users/tarik/Projects/introlecture/MiniExcercise/obj/",
+        "outputPath": "/Users/tarik/Projects/introLecture/MiniExcercise/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tarik/.nuget/NuGet/NuGet.Config"

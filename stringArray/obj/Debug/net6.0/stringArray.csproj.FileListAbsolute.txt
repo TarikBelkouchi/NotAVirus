@@ -1,0 +1,15 @@
+/Users/tarik/Projects/introLecture/stringArray/bin/Debug/net6.0/stringArray
+/Users/tarik/Projects/introLecture/stringArray/bin/Debug/net6.0/stringArray.deps.json
+/Users/tarik/Projects/introLecture/stringArray/bin/Debug/net6.0/stringArray.runtimeconfig.json
+/Users/tarik/Projects/introLecture/stringArray/bin/Debug/net6.0/stringArray.dll
+/Users/tarik/Projects/introLecture/stringArray/bin/Debug/net6.0/ref/stringArray.dll
+/Users/tarik/Projects/introLecture/stringArray/bin/Debug/net6.0/stringArray.pdb
+/Users/tarik/Projects/introLecture/stringArray/obj/Debug/net6.0/stringArray.csproj.AssemblyReference.cache
+/Users/tarik/Projects/introLecture/stringArray/obj/Debug/net6.0/stringArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarik/Projects/introLecture/stringArray/obj/Debug/net6.0/stringArray.AssemblyInfoInputs.cache
+/Users/tarik/Projects/introLecture/stringArray/obj/Debug/net6.0/stringArray.AssemblyInfo.cs
+/Users/tarik/Projects/introLecture/stringArray/obj/Debug/net6.0/stringArray.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/introLecture/stringArray/obj/Debug/net6.0/stringArray.dll
+/Users/tarik/Projects/introLecture/stringArray/obj/Debug/net6.0/ref/stringArray.dll
+/Users/tarik/Projects/introLecture/stringArray/obj/Debug/net6.0/stringArray.pdb
+/Users/tarik/Projects/introLecture/stringArray/obj/Debug/net6.0/stringArray.genruntimeconfig.cache
