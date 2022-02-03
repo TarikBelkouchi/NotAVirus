@@ -1,22 +1,28 @@
-﻿<Properties StartupConfiguration="{842605DB-0FC9-4981-9C2E-58F753EE0F3B}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+﻿<Properties StartupConfiguration="{B4C2C54F-99E2-4FAE-98F5-513A31CF5A95}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Week1Lab1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Week1Lab1/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week1Lab3/Program.cs">
     <Files>
       <File FileName="introlecture/Program.cs" Line="33" Column="12" />
       <File FileName="MiniExcercise/Program.cs" Line="1" Column="1" />
       <File FileName="NotAVirus/Program.cs" Line="11" Column="43" />
       <File FileName="Week1Lab1/Program.cs" Line="30" Column="2" />
+      <File FileName="ConditionLecture/Program.cs" Line="64" Column="1" />
+      <File FileName="Exercises/Program.cs" Line="20" Column="1" />
+      <File FileName="stringArray/Program.cs" Line="93" Column="19" />
+      <File FileName="Week1Lab2/Program.cs" Line="51" Column="2" />
+      <File FileName="Methods/Program.cs" Line="139" Column="2" />
+      <File FileName="Week1Lab3/Program.cs" Line="20" Column="64" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="introlecture" expanded="True">
-            <Node name="introlecture" expanded="True" />
-            <Node name="MiniExcercise" expanded="True" />
-            <Node name="NotAVirus" expanded="True" />
-            <Node name="Week1Lab1" expanded="True" selected="True" />
+            <Node name="Methods" expanded="True" />
+            <Node name="Week1Lab3" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -28,9 +34,11 @@
   <MonoDevelop.Ide.ItemProperties.MiniExcercise PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ConditionLecture PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.NotAVirus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.stringArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Week1Lab2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Week1Lab3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Week1Lab2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Exercises PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.introlecture PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />

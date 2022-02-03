@@ -1,0 +1,15 @@
+/Users/tarik/Projects/introLecture/Methods/bin/Debug/net6.0/Methods
+/Users/tarik/Projects/introLecture/Methods/bin/Debug/net6.0/Methods.deps.json
+/Users/tarik/Projects/introLecture/Methods/bin/Debug/net6.0/Methods.runtimeconfig.json
+/Users/tarik/Projects/introLecture/Methods/bin/Debug/net6.0/Methods.dll
+/Users/tarik/Projects/introLecture/Methods/bin/Debug/net6.0/ref/Methods.dll
+/Users/tarik/Projects/introLecture/Methods/bin/Debug/net6.0/Methods.pdb
+/Users/tarik/Projects/introLecture/Methods/obj/Debug/net6.0/Methods.csproj.AssemblyReference.cache
+/Users/tarik/Projects/introLecture/Methods/obj/Debug/net6.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarik/Projects/introLecture/Methods/obj/Debug/net6.0/Methods.AssemblyInfoInputs.cache
+/Users/tarik/Projects/introLecture/Methods/obj/Debug/net6.0/Methods.AssemblyInfo.cs
+/Users/tarik/Projects/introLecture/Methods/obj/Debug/net6.0/Methods.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/introLecture/Methods/obj/Debug/net6.0/Methods.dll
+/Users/tarik/Projects/introLecture/Methods/obj/Debug/net6.0/ref/Methods.dll
+/Users/tarik/Projects/introLecture/Methods/obj/Debug/net6.0/Methods.pdb
+/Users/tarik/Projects/introLecture/Methods/obj/Debug/net6.0/Methods.genruntimeconfig.cache

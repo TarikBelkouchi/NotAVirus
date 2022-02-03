@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringArray", "stringArray\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1Lab2", "Week1Lab2\Week1Lab2.csproj", "{842605DB-0FC9-4981-9C2E-58F753EE0F3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{B9B41B01-634D-40E8-8AC3-EB2E481940CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1Lab3", "Week1Lab3\Week1Lab3.csproj", "{B4C2C54F-99E2-4FAE-98F5-513A31CF5A95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -57,6 +61,14 @@ Global
 		{842605DB-0FC9-4981-9C2E-58F753EE0F3B}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{842605DB-0FC9-4981-9C2E-58F753EE0F3B}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{842605DB-0FC9-4981-9C2E-58F753EE0F3B}.Release|anycpu.Build.0 = Release|Any CPU
+		{B9B41B01-634D-40E8-8AC3-EB2E481940CF}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{B9B41B01-634D-40E8-8AC3-EB2E481940CF}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{B9B41B01-634D-40E8-8AC3-EB2E481940CF}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{B9B41B01-634D-40E8-8AC3-EB2E481940CF}.Release|anycpu.Build.0 = Release|Any CPU
+		{B4C2C54F-99E2-4FAE-98F5-513A31CF5A95}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{B4C2C54F-99E2-4FAE-98F5-513A31CF5A95}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{B4C2C54F-99E2-4FAE-98F5-513A31CF5A95}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{B4C2C54F-99E2-4FAE-98F5-513A31CF5A95}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
